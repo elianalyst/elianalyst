@@ -1,5 +1,5 @@
 ## Hello 🌍
-I'm Eli Neiman, a Data Analyst with a passion for uncovering insights and solving business problems with data. I specialize in data analysis + rerporting, data visualization, and machine learning.
+I'm Eli Neiman, a Data Analyst with a passion for uncovering insights and solving business problems with data. I specialize in data analysis + reporting, data visualization, and machine learning.
 
 ## Tools 🧰 
 Python - SQL - Tableau - Excel - Google  
